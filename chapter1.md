@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Lesson 3.3-Star Schemas
+
+```yaml
+type: VideoExercise
+key: bb93593a6e
+xp: 50
+```
+
+`@projector_key`
+3c454a70735246aa9a1c8ffb12b2680a
